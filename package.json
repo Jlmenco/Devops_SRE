@@ -1,0 +1,17 @@
+{
+  "name": "sre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jlmenco/sre.git",
+  "author": "<jlmenco@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
